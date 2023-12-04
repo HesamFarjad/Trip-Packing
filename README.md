@@ -20,7 +20,7 @@ Feel free to explore, contribute, or adapt this project to suit your learning ne
 ✨Happy learning! ✨
 
 
-[![Watch the Video](https://youtu.be/hx-vXTVniHk)
+[![Watch the video](https://img.youtube.com/vi/hx-vXTVniHk/0.jpg)](https://youtu.be/hx-vXTVniHk)
 
 
 #ReactJS #WebDevelopment #JavaScript #ReactApp #ReactComponents #useState #CodingWithHooks #ReactDeveloper #CodeReview #Programming #CodingLife #WebDesign #Frontend
